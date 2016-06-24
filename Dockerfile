@@ -1,5 +1,7 @@
 FROM node:argon-slim
 
+EXPOSE 8080
+
 RUN mkdir -p /usr/src/app
 
 WORKDIR /usr/src/app
