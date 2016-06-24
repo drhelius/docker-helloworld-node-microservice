@@ -1,4 +1,4 @@
-FROM node:argon-slim
+FROM mhart/alpine-node:4.4.6
 
 EXPOSE 8080
 
