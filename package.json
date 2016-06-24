@@ -1,0 +1,26 @@
+{
+  "name": "helloworld-node-microservice",
+  "version": "1.0.0",
+  "description": "A minimial Hello World micro service",
+  "author":"@drhelius",
+  "scripts": {
+    "start": "node hello.js"
+  },
+  "main": "hello.js",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/drhelius/docker-helloworld-node-microservice"
+},
+  "bugs": {
+  "url": "https://github.com/drhelius/docker-helloworld-node-microservice/issues"
+},
+  "keywords": [
+  "helloworld",
+  "hello",
+  "world"
+],
+  "dependencies": {
+
+  },
+  "license": "Apache-2.0"
+}
