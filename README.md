@@ -1,6 +1,6 @@
 # docker-helloworld-node-microservice
 
-docker run --name hello --dettach -p 8080:8080 drhelius/helloworld-node-microservice
+docker run --name hello --detach -p 8080:8080 drhelius/helloworld-node-microservice
 
 
 Example Output:
